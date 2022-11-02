@@ -1,9 +1,8 @@
 # AlgorithmPracticeWeeklyHomework
 Algorithm practice weekly homework in NJUPT
 
-## environment
-pyqt5
-faker
+## Environment
+pyqt5 and faker
 
 ## How to build exe
 ```
